@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/u/71884512/CCLEN.ipa</string>
+					<string>https://github.com/shiftApps/AnaDemo/releases/download/1.0/CCAnalyzerAnaDemo.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.shift.LEN</string>
+				<string>com.shift.CCAnalyzerSHIFT-cca-anademo</string>
 				<key>bundle-version</key>
 				<string>2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>LENコード認識</string>
+				<string>CC工具管理デモアプリ</string>
 			</dict>
 		</dict>
 	</array>
